@@ -1,0 +1,17 @@
+package list;
+
+import java.io.File;
+
+public class FileList {
+
+	public static void main(String[] args) {
+
+		File pr = new File ("E:\\");
+		String[] files = pr.list();
+		for() {
+			
+		}
+
+	}
+
+}
